@@ -26,3 +26,4 @@ let MAXCOUNT = 11;
  }
  console.log("Number of heads is: " + countHead);
  console.log("Number of tails is: " + countTail);
+
