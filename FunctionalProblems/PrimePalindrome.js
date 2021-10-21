@@ -33,6 +33,8 @@
  
  function perform(num)
  {
+  
+  
      checkPrime(num);
      checkPalindrome(num);
      checkPrime(rev);
