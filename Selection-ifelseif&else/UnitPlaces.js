@@ -18,3 +18,4 @@
  else if (number>=10000 && number<=99999) console.log("Tens of Thousands.")
  
  else if (number>=100000 && number<=999999) console.log("Lakhs.")
+
