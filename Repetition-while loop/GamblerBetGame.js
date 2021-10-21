@@ -26,3 +26,4 @@ while(balance>0&&balance<200){
 console.log("Total bets taken = " + totalBets);
 console.log("Total wins = " + winCount);
 console.log("Balance = " + balance);
+
