@@ -14,4 +14,4 @@
  }
  console.log("Harmonic value of the number is : " +sum);
 
- 
+
