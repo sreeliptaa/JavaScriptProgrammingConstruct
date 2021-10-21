@@ -14,3 +14,5 @@
  
  let average=sum/5;
  console.log("Average of five number is "+ average);
+
+
