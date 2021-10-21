@@ -24,3 +24,4 @@ else if (digit==8) console.log("Eight");
 else if (digit==9) console.log("Nine");
 
 else console.log("Zero");
+
