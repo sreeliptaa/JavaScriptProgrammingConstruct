@@ -12,3 +12,4 @@
  console.log("Maximum value is = "+Math.max(random1,random2,random3,random4,random5));
  
  console.log("Minimum value is = "+Math.min(random1,random2,random3,random4,random5));
+
