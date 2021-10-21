@@ -18,3 +18,4 @@
  else if (day == 6) console.log("Saturday");
  
  else console.log("Sunday");
+
