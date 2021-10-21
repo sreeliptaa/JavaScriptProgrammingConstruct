@@ -7,3 +7,5 @@
  let num2 = (Math.floor(Math.random() * 6) + 1);
  let Addition = num1 + num2;
  console.log("Addition of the two random dice number = " + Addition);
+
+
