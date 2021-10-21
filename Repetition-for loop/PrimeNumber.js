@@ -20,3 +20,4 @@
  else{
      console.log("This is not a prime number")
  }
+
