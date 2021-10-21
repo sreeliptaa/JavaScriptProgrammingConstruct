@@ -22,3 +22,4 @@ let plotInFeet1 = 60 * 40;
 const numOfPlots = 25;
 let plotInMeters1 = numOfPlots * (plotInFeet1 / 3.2808);
 console.log("Area of 25 plots  =" + plotInMeters1);
+
