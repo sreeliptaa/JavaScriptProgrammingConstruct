@@ -33,6 +33,7 @@ const prompt = require('prompt-sync')({sigint : true});
             }
             break;
 
+        
         case 2:
             let fahreinheit = prompt('Enter the temperature range within 32°F to 212°F: ');
             if ( fahreinheit >= 32 && fahreinheit <= 212 ) {
