@@ -25,3 +25,4 @@ console.log("Prime numbers in between the range are: ")
          console.log(i);
      }
  }
+
