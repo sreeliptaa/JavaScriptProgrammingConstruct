@@ -12,3 +12,4 @@
      fact = fact * i;
  }
  console.log("Factorial of "+n+ " is " + fact);
+
